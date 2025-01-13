@@ -17,3 +17,5 @@ im going to add alot of changes for this website to test frontend
 
 adding some aspects 
 
+do some coding tomorrow 
+
