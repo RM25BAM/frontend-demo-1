@@ -7,6 +7,9 @@ function App() {
       <h2>
         Section
       </h2>
+      <h1>
+        
+      </h1>
       <header />
       <footer />
     </main>
