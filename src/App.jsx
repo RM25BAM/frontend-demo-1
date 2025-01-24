@@ -4,6 +4,9 @@ function App() {
       <h1 className="text-5xl text-orange-500">
         Welcome to Awwards
       </h1>
+      <h2>
+        Section
+      </h2>
       <header />
       <footer />
     </main>
